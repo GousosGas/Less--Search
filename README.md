@@ -39,5 +39,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Instruction for API
 
-You need to obtain a key in order to connect and use Youtube API [instructions](https://developers.google.com/youtube/v3/getting-started)
+You need to obtain a key in order to connect and use [Youtube API](https://developers.google.com/youtube/v3/getting-started)
 After that insert your key on apis/config-sample.js and you are ready to go :)
