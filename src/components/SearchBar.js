@@ -14,9 +14,12 @@ class SearchBar extends React.Component{
         this.props.onFormSubmit(this.state.term);
     };
 
+
+
+
     render() {
         return (
-            <div className="search-bar ui segment">
+            <div className="search-bar ui segment" style={{"marginTop":70}}>
                 <form onSubmit={this.onFormSubmit} className="ui form">
                     <div className="field">
                         <label>Video Search</label>
