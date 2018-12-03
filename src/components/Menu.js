@@ -6,7 +6,7 @@ const Menu = () => {
         <div>
             <div className="ui top fixed menu">
                 <div className="item">
-                    <h2 style={{fontFamily: 'Black Han Sans',}}>Less Search</h2>
+                    <h3 style={{fontFamily: 'Black Han Sans',}}>Less Search</h3>
                 </div>
             </div>
 
